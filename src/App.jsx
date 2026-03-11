@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './Components/navbar';
-import Hero from './Components/Hero';
-import Login from './Components/Login';
-import Register from './Components/Register';
-import Welcome from './Components/Welcome';
+import Navbar from './components/navbar';
+import Hero from './components/Hero';
+import Login from './components/Login';
+import Register from './components/Register';
+import Welcome from './components/Welcome';
 import './App.css';
 
 const App = () => {
